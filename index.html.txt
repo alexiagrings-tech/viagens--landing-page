@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notre Dame — Sua Próxima Viagem</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="topo">
+
+    <nav aria-label="Menu principal">
+        <div class="logo"><strong>TripMe</strong></div>
+        <ul>
+        <a href="#minha-viagem">MinhaViagem</a> 
+	<a href="#nos-encontre">NosEncontre</a> 
+	<a href="#conselhos">Conselhos</a>
+        </ul>
+    </nav>
+    <header class="banner">
+        <h1>Descubra o charme da catedral gótica na França</h1>
+    </header>
+    <main>
+        <section id="minha-viagem">
+            <h2>Minha Viagem</h2>
+            <article>
+                <p>
+                    A Catedral de Notre-Dame surge como uma daquelas paradas obrigatórias que fazem qualquer viagem a Paris ganhar um toque especial.
+                    Se você busca um passeio que una emoção, beleza e aquela essência parisiense irresistível, Notre-Dame é o destino perfeito. Prepare a câmera, ajuste o mapa e deixe-se encantar pela beleza e atmosferas únicas.
+                </p>
+            </article>
+            <a class="voltar-topo" href="#topo">Voltar ao topo</a>
+        </section>
+
+        <section id="nos-encontre">
+            <h2>Nos Encontre</h2>
+
+            <article>
+                <p>
+                    Estamos espalhados por diversos países da Europa, sempre buscando
+                    novos destinos encantadores para indicar aos viajantes curiosos.
+                </p>
+            </article>
+            <a class="voltar-topo" href="#topo">Voltar ao topo</a>
+        </section>
+        <section id="conselhos">
+            <h2>Conselhos</h2>
+            <article>
+                <p>
+                    <strong>Aqui vai uma dica de ouro!</strong> A área em volta da Notre-Dame costuma ficar cheia, principalmente na alta temporada. Indo pela manhã você aproveita com mais tranquilidade e pega uma luz linda para fotos.
+                </p>
+            </article>
+
+            <a class="voltar-topo" href="#topo">Voltar ao topo</a>
+        </section>
+    </main>
+    <footer>
+        © 2025 TripMe — Todos os direitos reservados.
+    </footer>
+</body>
+</html>
+
